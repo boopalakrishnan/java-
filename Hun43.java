@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Hunter43 {
+public class Hun43 {
 	public static void main(String[] args)throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		ArrayList<Integer> list=new ArrayList<Integer>();
